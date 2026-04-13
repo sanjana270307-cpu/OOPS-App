@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class OOPSBannerUC7 {
 
     // Inner Static Class
